@@ -1,0 +1,14 @@
+node_modules/
+client/dist/
+.data/
+server/uploads/*
+!server/uploads/.gitkeep
+.env
+.env.local
+server/.env
+client/.env
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+*.log
+.vscode/
